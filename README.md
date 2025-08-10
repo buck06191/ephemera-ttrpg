@@ -1,6 +1,16 @@
 # Ephemera - An escape room TTRPG
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+<!--toc:start-->
+
+- [Ephemera - An escape room TTRPG](#ephemera-an-escape-room-ttrpg)
+  - [What is it?](#what-is-it)
+  - [Difficulty checks](#difficulty-checks)
+  - [Ephemera](#ephemera)
+    - [Generating Ephemera](#generating-ephemera)
+  - [License](#license)
+  <!--toc:end-->
 
 ## What is it?
 
@@ -136,6 +146,11 @@ At the start of play, roll a D100 5 times plus one additional roll for each play
 |   98   |                                                                                      |
 |   99   |                                                                                      |
 |  100   |                                                                                      |
+
+## Example Scenarios
+
+- [Escape the wedding](./example-scenarios/escape-the-wedding.md)
+- [Department store dilemma](./example-scenarios/department-store-dilemma.md)
 
 ## License
 
