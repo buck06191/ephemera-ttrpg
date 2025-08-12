@@ -83,31 +83,31 @@ For example, with two players plus the GM you would roll 6 times. For 4 players 
 |   33   | Half a tarot card of The Tower, torn in half lengthways (down the long axis)                                                                        |
 |   34   | A stuffed taxidermy pidgeon                                                                                                                         |
 |   35   | A pint glass with a small amount of a vivid green liquid in it that small like bananas                                                              |
-|   36   | A "video library"" fake book VHS case without a tape in it                                                                                          |
+|   36   | A "video library" fake book VHS case without a tape in it                                                                                           |
 |   37   | A Blockbusters membership card with the name "A. Tingle" on it                                                                                      |
 |   38   | A padlock with the key in it                                                                                                                        |
 |   39   | A filled loyalty card for a local coffee shop                                                                                                       |
-|   40   |                                                                                                                                                     |
-|   41   |                                                                                                                                                     |
-|   42   |                                                                                                                                                     |
-|   43   |                                                                                                                                                     |
-|   44   |                                                                                                                                                     |
-|   45   |                                                                                                                                                     |
-|   46   |                                                                                                                                                     |
-|   47   |                                                                                                                                                     |
-|   48   |                                                                                                                                                     |
-|   49   |                                                                                                                                                     |
-|   50   |                                                                                                                                                     |
-|   51   |                                                                                                                                                     |
-|   52   |                                                                                                                                                     |
-|   53   |                                                                                                                                                     |
-|   54   |                                                                                                                                                     |
-|   55   |                                                                                                                                                     |
-|   56   |                                                                                                                                                     |
-|   57   |                                                                                                                                                     |
-|   58   |                                                                                                                                                     |
-|   59   |                                                                                                                                                     |
-|   60   |                                                                                                                                                     |
+|   40   | An oddly wide antique bone shoe horn                                                                                                                |
+|   41   | Half a pack of cream crackers                                                                                                                       |
+|   42   | Garlic press                                                                                                                                        |
+|   43   | Radiator bleed key with one arm snapped off which makes it hard to turn                                                                             |
+|   44   | A smoke alarm that keeps emitting a low battery beep                                                                                                |
+|   45   | Library book front plate with five dates between 1983 and 1992                                                                                      |
+|   46   | A dead beetle in a matchbox                                                                                                                         |
+|   47   | A sewing kit missing a button                                                                                                                       |
+|   48   | A spool of green thread                                                                                                                             |
+|   49   | A train timetable for the route from Carlisle to Manchester from the year 2005                                                                      |
+|   50   | A single unknown key                                                                                                                                |
+|   51   | A half melted tea light that still smells faintly of cinnamon                                                                                       |
+|   52   | A roll of film. It is unclear if it has been used or not                                                                                            |
+|   53   | A bic lighter that only occasionally lights up                                                                                                      |
+|   54   | A single stamp for sending post from the UK to Europe                                                                                               |
+|   55   | An empty, large Mcdonald's soft drink cup                                                                                                           |
+|   56   | A tamagotchi. It seems to still have some life left in it                                                                                           |
+|   57   | A polaroid photo of a man with a big ginger beard                                                                                                   |
+|   58   | A disposable camera with 2 exposures remaining                                                                                                      |
+|   59   | Seven plastic straws of various colours                                                                                                             |
+|   60   | A chain of 12 paperclips, each a different colour                                                                                                   |
 |   61   |                                                                                                                                                     |
 |   62   |                                                                                                                                                     |
 |   63   |                                                                                                                                                     |
